@@ -1,0 +1,1 @@
+["NeverActive Active Users","HTML","Users_NeverActive_Enabled.html","MATCH (n:User) WHERE n.lastlogontimestamp=-1.0 AND n.enabled=TRUE RETURN n.name ORDER BY n.name"]

@@ -1,0 +1,1 @@
+["Unconstrained Delegation Computers","HTML","Workstations_UnconstrainedDelegation.html","MATCH (c:Computer) Where c.unconstraineddelegation=true return c.name, c.description, c.serviceprincipalnames, c.haslaps"]

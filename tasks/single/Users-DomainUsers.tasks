@@ -1,0 +1,1 @@
+["Domain Users HTML","HTML","DomainUsers.html","MATCH (n:User) RETURN n.name, n.displayname, n.description, n.title, n.pwdneverexpires, n.passwordnotreqd, n.sensitive, n.admincount, n.serviceprincipalnames"]

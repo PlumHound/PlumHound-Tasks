@@ -1,0 +1,1 @@
+["Computers with Descriptions","HTML","Computers_WithDescriptions.html","MATCH (c:Computer) WHERE c.description IS NOT NULL RETURN c.name,c.description"]

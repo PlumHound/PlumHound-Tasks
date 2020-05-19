@@ -1,0 +1,1 @@
+["Users Computer Direct Admin Count","HTML","Users_Count_DirectAdminComputers.html","MATCH (u:User)-[:AdminTo]->(c:Computer) RETURN count(DISTINCT(c.name)) AS COMPUTER, u.name AS USER ORDER BY count(DISTINCT(c.name)) DESC"]

@@ -1,0 +1,1 @@
+["RDPable Servers","HTML","Workstations_RDP.html","match p=(g:Group)-[:CanRDP]->(c:Computer) where  g.objectid ENDS WITH \'-513\'  AND c.operatingsystem CONTAINS \'Server\' return c.namep"]

@@ -1,0 +1,1 @@
+["LocalAdminGroups","HTML","LocalAdmin_Groups.html","MATCH p=(m:Group)-[r:AdminTo]->(n:Computer) RETURN m.name, n.name ORDER BY m.name"]

@@ -1,0 +1,1 @@
+["DA Sessions","HTML","DA_Sessions.html","MATCH (n:User)-[:MemberOf]->(g:Group) WHERE g.objectid ENDS WITH \'-512\' MATCH p = (c:Computer)-[:HasSession]->(n) return g.name, c.name"]

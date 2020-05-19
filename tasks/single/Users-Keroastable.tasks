@@ -1,0 +1,1 @@
+["Keroastable Users","HTML","Keroastable_Users.html","MATCH (n:User) WHERE n.hasspn=true RETURN n.name, n.displayname,n.description, n.title, n.pwdneverexpires, n.passwordnotreqd, n.sensitive, n.admincount, n.serviceprincipalnames"]
