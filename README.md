@@ -5,12 +5,12 @@
 PlumHound is a Report Engine for the BloodHoundAD graphical database Active Directory tool.  PlumHound-Tasks is a community driven set of tasks (work) that instructs PlumHound to extract specific information from BloodHoundAD and build a subsequent report. 
 
 ## Release and call to Action
-The initial [PlumHound](https://github.com/DefensiveOrigins/PlumHound) code was released on May 14th, 2020 during a Black Hills Information Security webcast, A Blue Teams Perspective on Red Team Tools.  The webcast was recorded and is available on YouTuve here[Link TBA].
+The initial [PlumHound](https://github.com/DefensiveOrigins/PlumHound) code was released on May 14th, 2020 during a Black Hills Information Security webcast, A Blue Teams Perspective on Red Team Tools.  The webcast was recorded and is available on YouTube here[Link TBA].
 
 We need PlumHound-Tasks collaborators and maintainers.  If you would like to assist in maintaining the project, please contact the Defensive Origins team through GitHub or Twitter. 
 
 * [Defensive Origins](https://www.defensiveorigins.com)   |  [@DefensiveOGs](https://twitter.com/DefensiveOGs) | [Git](https://github.com/DefensiveOrigins) 
-* Kent Ickler  |  @[Krelkci](https://twitter.com/Krelkci) | [Git](https://github.com/Relkci)
+* Kent Ickler  |  [@Krelkci](https://twitter.com/Krelkci) | [Git](https://github.com/Relkci)
 * Jordan Drysdale |  [@Rev10D](https://twitter.com/Rev10D) | [Git](https://github.com/rev10d)
 
 <HR>
