@@ -5,12 +5,14 @@
 PlumHound is a Report Engine for the BloodHoundAD graphical database Active Directory tool.  PlumHound-Tasks is a community driven set of tasks (work) that instructs PlumHound to extract specific information from BloodHoundAD and build a subsequent report. 
 
 ## Release and call to Action
-The initial [PlumHound](https://github.com/DefensiveOrigins/PlumHound) code was released on May 14th, 2020 during a Black Hills Information Security webcast, A Blue Teams Perspective on Red Team Tools.  The webcast was recorded and is available on YouTube [here.](https://www.youtube.com/watch?v=0mIN2OU5hQE)
+
+The initial [PlumHound](https://github.com/DefensiveOrigins/PlumHound) code was released on May 14th, 2020 during a Black Hills Information Security webcast, A Blue Teams Perspective on Red Team Tools.  The webcast was recorded and is available on YouTube here[Link TBA].
+
 
 We need PlumHound-Tasks collaborators and maintainers.  If you would like to assist in maintaining the project, please contact the Defensive Origins team through GitHub or Twitter. 
 
 * [Defensive Origins](https://www.defensiveorigins.com)   |  [@DefensiveOGs](https://twitter.com/DefensiveOGs) | [Git](https://github.com/DefensiveOrigins) 
-* Kent Ickler  |  @[Krelkci](https://twitter.com/Krelkci) | [Git](https://github.com/Relkci)
+* Kent Ickler  |  [@Krelkci](https://twitter.com/Krelkci) | [Git](https://github.com/Relkci)
 * Jordan Drysdale |  [@Rev10D](https://twitter.com/Rev10D) | [Git](https://github.com/rev10d)
 
 <HR>
@@ -77,9 +79,9 @@ python3 PlumHound.py --HTMLFooter ../PlumHound-tasks/template/HTML/example-foot.
 
 ## Advisory and Initial Code Contribution
 Help PlumHound grow and be a great tool for Blue and Purple Teams.  We've created the initial proof of concept and are committed to continuing the maturity of PlumHound to leverage the power of BloodHoundAD into continual security improvement processes.  Community involvement is what makes this industry great!  
-* [Black Hills Information Security](https://www.blackhillsinfosec.com) | @[BHInfoSecurity](https://twitter.com/BHinfoSecurity) | [Discord](https://discord.gg/J4UJPgG)
+* [Black Hills Information Security](https://www.blackhillsinfosec.com) | [@BHInfoSecurity](https://twitter.com/BHinfoSecurity) | [Discord](https://discord.gg/J4UJPgG)
 * [Defensive Origins](https://www.defensiveorigins.com)   |  [@DefensiveOGs](https://twitter.com/DefensiveOGs) | [Git](https://github.com/DefensiveOrigins) 
-* Kent Ickler  |  @[Krelkci](https://twitter.com/Krelkci) | [Git](https://github.com/Relkci)
+* Kent Ickler  |  [@Krelkci](https://twitter.com/Krelkci) | [Git](https://github.com/Relkci)
 * Jordan Drysdale |  [@Rev10D](https://twitter.com/Rev10D) | [Git](https://github.com/rev10d)
 
 
