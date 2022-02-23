@@ -1,0 +1,1 @@
+["Users without logon in past 6 months","CSV","UsersNoRecentLogon.csv","WITH timestamp() / 1000 AS date_now MATCH (n:User) WHERE date_now - toInteger(n.lastlogontimestamp) > 15552000 AND n.lastlogontimestamp<>-1.0 RETURN n.name as Username, n.displayname as DisplayName, toInteger(n.lastlogontimestamp) as LastLogonTimeStamp"]
